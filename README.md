@@ -1,7 +1,7 @@
 <h2 align="center">
-    <img src="./public/icone.svg" />
+    <img width="70" height="70" src="./public/icone.svg" />
 </h2>
-<h1>
+<h1 align="center">
   Qual o meu CEP?
 </h1>
 
