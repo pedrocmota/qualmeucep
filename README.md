@@ -1,5 +1,6 @@
 <h1 align="center">
     <img width="70" height="70" alt="Qual o meu CEP?" src="./public/icone.svg" />
+    Qual o meu CEP?
 </h1>
 
 <p align="center">
