@@ -38,4 +38,4 @@ $ npm start
 Isso vai depender do seu aparelho. Em aparelhos mobile a precisão é de poucos metros.
 ## 📝 Licença
 
-Este projeto esta sobe a licença MIT.
+Este projeto está licenciado com a licença MIT.
